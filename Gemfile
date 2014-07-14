@@ -14,6 +14,7 @@ group :test do
 end
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.1'
+gem 'bcrypt-ruby','3.1.5'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '2.1.1'
 # Use CoffeeScript for .js.coffee assets and views
